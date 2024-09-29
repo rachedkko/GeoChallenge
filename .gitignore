@@ -1,0 +1,8 @@
+**/node_modules
+package-lock.json
+dist
+package-lock.json
+**/*solved*
+firebaseConfig
+.firebase
+.env
